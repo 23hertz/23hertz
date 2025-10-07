@@ -1,16 +1,20 @@
-## Hi there 👋
+   # Hi there 👋, I'm Adeolu  
+   I'm a passionate **self-taught web developer** from Nigeria, currently learning **React**, **Next.js**, and **Tailwind CSS**.  
+   I enjoy building creative projects that solve real-life problems and help me grow as a developer.  
 
-<!--
-**23hertz/23hertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  What I’m Currently Doing
+-  Working on my **100 Days of Code Challenge**  
+-  Learning **Next.js**, **Zustand**, and **API integration with Axios**  
+-  Exploring **AI & Automation** to combine with web development  
 
-Here are some ideas to get you started:
+###  Tech Stack
+     - html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Projects & Practice
+       - Color Picker App – Built with HTML, CSS & JS  
+       - Quote Generator – My latest 100DaysOfCode project  
+       - Movie App – Using Nextjs, Typescript, Tailwind  
+
+###  What Excites Me About Web Development
+     I love turning ideas into interactive designs — watching a blank screen come alive with code gives me joy.  
+     Every project teaches me something new and brings me closer to building my dream career as a developer.  
